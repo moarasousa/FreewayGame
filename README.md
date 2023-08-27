@@ -10,10 +10,12 @@ Freeway, an exciting game where you take control of a brave cow on a mission to 
 </p>
 
 ## Features
-* Pontuação e Recordes: Ganhe pontos a cada travessia ]bem-sucedida. Tente superar sua pontuação mais alta a cada tentativa.
-* Controles Simples: Use as teclas de seta do teclado para mover a vaca para cima, para baixo, para a esquerda e para a direita.
-* Objetivo: Guie a vaca através das pistas movimentadas da rodovia, evitando colisões com os veículos.
-* Pontuação: Ganhe pontos por cada travessia bem-sucedida. Supere suas pontuações anteriores para progredir.
+* Scoring and Records: Earn points for each successful crossing. Try to beat your high score with each attempt.
+* Simple Controls: Use the keyboard arrow keys to move the cow up, down, left and right.
+* Tactical Evolution: At each level, you'll learn to better anticipate vehicle movements and plan your crossing more efficiently.
+* Objective: Guide the cow through the busy lanes of the highway, avoiding collisions with vehicles.
+* Controls: Use your keyboard's arrow keys to move the cow in the corresponding directions.
+* Scoring: Earn points for each successful crossing. Beat your previous scores to progress.
 
 Check it out at https://editor.p5js.org/moanazx/full/DbMRTb7FR
 
